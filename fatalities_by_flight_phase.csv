@@ -1,0 +1,8 @@
+FlightPhase_clean,accidents,total_fatalities,mean_fatalities
+En route,3,6.0,2.0
+Landing,9,2.0,0.22
+Manoeuvring,1,1.0,1.0
+Take-off,1,1.0,1.0
+Approach,1,0.0,0.0
+Not recorded,1,0.0,0.0
+Standing,2,0.0,0.0
